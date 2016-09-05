@@ -1,0 +1,19 @@
+{
+  "name": "node-profile-app",
+  "version": "1.0.0",
+  "description": "profile application from treehouse",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+ "engines": { "node": "4.5.0"  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jackton1/profile-application.git"
+  },
+  "author": "Tonye Jack",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/jackton1/profile-application/issues"
+  }
+}
