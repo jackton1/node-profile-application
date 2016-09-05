@@ -8,7 +8,7 @@ var router = require("./router.js");
 var http = require('http');
 
 var localAddress = '127.0.0.1';
-var port = process.env.PORT || 3000;
+var port = 4000;
 
 http.createServer( function(request, response){
   router.home(request, response);
